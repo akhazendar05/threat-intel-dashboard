@@ -1,0 +1,18 @@
+.env
+Backend/.env
+.venv/
+node_modules/
+frontend/node_modules/
+__pycache__/
+.DS_Store
+cat << 'EOF' > .gitignore
+.env
+Backend/.env
+.venv/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.DS_Store
+EOF
