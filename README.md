@@ -3,16 +3,16 @@
 A full-stack security automation tool that streamlines IP reputation triage by querying the VirusTotal v3 API through a Python FastAPI backend and rendering real-time risk telemetry in a React dashboard.
 
 ### Flagged Threat Detection (`185.220.101.1`)
-![Flagged IP Scan](Frontend/src/demo.png/Threat_Scanner_185.220.101.1.png)
+![Flagged IP Scan](Threat_Scanner_185.220.101.1.png)
 
 ### Clean IP Lookup (`1.1.1.1`)
-![Clean IP Scan](Frontend/src/demo.png/Threat_Scanner_1.1.1.1.png)
+![Clean IP Scan](Threat_Scanner_1.1.1.1.png)
 
 ### Public DNS Resolver Check (`8.8.8.8`)
-![Google DNS Scan](Frontend/src/demo.png/Threat_Scanner_8.8.8.8.png)
+![Google DNS Scan](Threat_Scanner_8.8.8.8.png)
 
 ### Security Scanner Host Check (`42.33.32.156`)
-![Scanner Host Check](Frontend/src/demo.png/Threat_Scanner_42.33.32.156.png)
+![Scanner Host Check](Threat_Scanner_42.33.32.156.png)
 
 
 ## 🎯 Why I Built This
