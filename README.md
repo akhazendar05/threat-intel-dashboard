@@ -1,3 +1,9 @@
+### Flagged Threat Detection (`185.220.101.1`)
+![Flagged IP Scan](Frontend/src/demo.png/Threat_Scanner_185.220.101.1.png)
+
+### Clean IP Lookup (`1.1.1.1`)
+![Clean IP Scan](Frontend/src/demo.png/Threat_Scanner_1.1.1.1.png)
+
 # 🛡️ Threat Intelligence IP Scanner
 
 A full-stack security automation tool that streamlines IP reputation triage by querying the VirusTotal v3 API through a Python FastAPI backend and rendering real-time risk telemetry in a React dashboard.
