@@ -1,17 +1,19 @@
+# 🛡️ Threat Intelligence IP Scanner
+
+A full-stack security automation tool that streamlines IP reputation triage by querying the VirusTotal v3 API through a Python FastAPI backend and rendering real-time risk telemetry in a React dashboard.
+
 ### Flagged Threat Detection (`185.220.101.1`)
 ![Flagged IP Scan](Frontend/src/demo.png/Threat_Scanner_185.220.101.1.png)
 
 ### Clean IP Lookup (`1.1.1.1`)
 ![Clean IP Scan](Frontend/src/demo.png/Threat_Scanner_1.1.1.1.png)
 
-# 🛡️ Threat Intelligence IP Scanner
+### Public DNS Resolver Check (`8.8.8.8`)
+![Google DNS Scan](Frontend/src/demo.png/Threat_Scanner_8.8.8.8.png)
 
-A full-stack security automation tool that streamlines IP reputation triage by querying the VirusTotal v3 API through a Python FastAPI backend and rendering real-time risk telemetry in a React dashboard.
+### Security Scanner Host Check (`42.33.32.156`)
+![Scanner Host Check](Frontend/src/demo.png/Threat_Scanner_42.33.32.156.png)
 
-!/Users/akhazendar05/Desktop/Threat-Dashboard/Frontend/node_modules/source-map-js/demo.png/Threat_Scanner_1.1.1.1.png
-!/Users/akhazendar05/Desktop/Threat-Dashboard/Frontend/node_modules/source-map-js/demo.png/Threat_Scanner_8.8.8.8.png
-!/Users/akhazendar05/Desktop/Threat-Dashboard/Frontend/node_modules/source-map-js/demo.png/Threat_Scanner_42.33.32.156.png
-!/Users/akhazendar05/Desktop/Threat-Dashboard/Frontend/node_modules/source-map-js/demo.png/Threat_Scanner_185.220.101.1.png
 
 ## 🎯 Why I Built This
 As a former SOC Analyst and Sysadmin, manual IOC (Indicator of Compromise) enrichment across multiple browser tabs slows down incident triage. This tool automates IP lookups into a single clean interface.
