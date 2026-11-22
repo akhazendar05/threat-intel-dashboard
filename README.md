@@ -15,5 +15,4 @@ As a former SOC Analyst and Sysadmin, manual IOC (Indicator of Compromise) enric
 ## 🚀 Key Features
 * Real-time IPv4 reputation scoring (`Malicious`, `Suspicious`, `Harmless`, `Undetected`)
 * Automated ASN (Network Owner) and Geolocation metadata extraction
-* Decoupled REST API architecture with CORS support and environment-based secret management
-![alt text](<Screenshot 2026-11-21 at 10.39.03 PM.png>) ![alt text](<Screenshot 2026-11-21 at 10.38.24 PM.png>) ![alt text](<Screenshot 2026-11-21 at 10.37.37 PM.png>) ![alt text](<Screenshot 2026-11-21 at 10.37.17 PM.png>)
+* Decoupled REST API architecture with CORS support and environment-based secret management.
